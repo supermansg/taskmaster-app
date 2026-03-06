@@ -1,0 +1,3 @@
+@echo off
+echo Starting TaskMaster App...
+npm run dev -- --open
